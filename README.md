@@ -1,6 +1,13 @@
 # CMSC447Final
 Final Project for CMSC 447
-
+-----------------------------------------------------------------------------------------------
+Brainstorming:
+Investment Tracker and Analyzer?
+Music Playlist Organizer
+Workout and Fitness Tracker
+Blog
+Employee Directory
+-----------------------------------------------------------------------------------------------
 Students get to choose their own project
 which should be an end to end web application. The students should choose a
 project which satisfies the following requirements:
@@ -15,3 +22,12 @@ database).
 4. Your application should be thoroughly tested (ex: Integration
 Testing, Functional testing).
 5. Your application should be hosted online.
+
+-----------------------------------------------------------------------------------------------
+Technologies:
+MongoDB
+Express
+React
+Node.js
+-----------------------------------------------------------------------------------------------
+
