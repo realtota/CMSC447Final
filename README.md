@@ -2,7 +2,8 @@
 Final Project for CMSC 447
 -----------------------------------------------------------------------------------------------
 Brainstorming:
-Investment Tracker and Analyzer?
+
+Investment Tracker and Analyzer
 Music Playlist Organizer
 Workout and Fitness Tracker
 Blog
